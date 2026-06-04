@@ -5,7 +5,7 @@ output: pdf_document
 
 # Overview
 
-This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "Product Development of a Substrate Mixer and Portioning Device" conducted at the Global Health Engineering research group at ETH Zurich. The folder contains a structure for generated data with guidance on how to store raw and derived data.
+This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "**Product Development of a Substrate Mixer and Portioning Device**" conducted 2026 at the Global Health Engineering research group at ETH Zurich. The folder contains a structure for generated data with guidance on how to store raw and derived data.
 
 
 # Directories & Files
@@ -36,29 +36,17 @@ The repository has the following directory tree:
     │       ├── presentation_psiegenthale.pptx
     │       ├── presentation_psiegenthale.pdf
     │       └── README.md
-    ├── grading
-    │   └── README.md
     ├── hardware
     │   ├── README.md
     │   ├── design
     │   │   └── README.md
     │   └── testing
     │       └── README.md
-    ├── media
-    │   ├── README.md
-    │   ├── photo
-    │   │    └── README.md
-    │   ├── video
-    │   │    └── README.md
-    │   └── correspondence
-    │        └── README.md
-    ├── src
-    │   └── README.md
     └── tree.txt
 
 | name         | description                                                                                                                                                                                                                        |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| README.pdf   | File to write up general information about this project.                                                                                                                                                                           |
+| README.pdf   | File with general information about this project.                                                                                                                                                                           |
 | analysis     | Directory containing code for data analysis.                                                                                                                                                                 |
 | data         | Data directory with sub-directories (raw_data, derived_data, metadata). This directory and its all sub-directories contain README.md files with instructions and information about their content.                                  |
 | docs         | Directory for documents that are generated as part of the project. Two sub-folders (report and slides) provide the manuscript and the presentations prepared over the course of the project. |
