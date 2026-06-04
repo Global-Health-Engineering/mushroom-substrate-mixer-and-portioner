@@ -106,7 +106,7 @@ All derived variables (e.g., water content, standard deviations, deviations from
 This file contains all measurements and derived variables from all first‑series experiments in a unified schema.
 
 ### Processing Pipeline
-Two Python scripts located in `/data/derived_data` implement the full computational workflow:
+Two Python scripts located in `/analysis` implement the full computational workflow:
 
 1. **01_build_derived_data.py**  
    Reads all raw CSV files, reshapes them into long format, computes all derived variables, and writes the combined `derived_data.csv`.
