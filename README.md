@@ -1,7 +1,4 @@
-# Project overview
-
-
-## 🍄 Low-Cost Mushroom Substrate Mixer & Portioning Device 🍄
+# 🍄 Low-Cost Mushroom Substrate Mixer & Portioning Device 🍄
 
 This open-source machine helps mushroom farmers mix, water, and bag substrate using simple materials and hand power only.
 
@@ -25,7 +22,7 @@ We hope this project helps farmers turn agricultural waste into food, income, an
 Feedback, improvements, and rebuilds are welcome. If you build your own version, please let us know! 🍄🔧
 
 ---
-# Repository Overview
+# Repository and Project Overview
 
 This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "**Product Development of a Substrate Mixer and Portioning Device**" conducted 2026 at the Global Health Engineering research group at ETH Zurich.
 
