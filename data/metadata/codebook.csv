@@ -1,0 +1,78 @@
+directory,file_name,variable_name,variable_type,variable_values,description,unit
+raw_data,01_01_1_4_test_watercontent_raw.csv,trial,categorical,1–4,Replicate number of the experiment,
+raw_data,01_01_1_4_test_watercontent_raw.csv,time_min,numeric,0–10,Elapsed mixing time,min
+raw_data,01_01_1_4_test_watercontent_raw.csv,variable,categorical,m_wet;m_dry,Measured variable type,
+raw_data,01_01_1_4_test_watercontent_raw.csv,paddle1,numeric,0–0.05,Wet or dry mass at paddle position 1,kg
+raw_data,01_01_1_4_test_watercontent_raw.csv,paddle2,numeric,0–0.05,Wet or dry mass at paddle position 2,kg
+raw_data,01_01_1_4_test_watercontent_raw.csv,paddle3,numeric,0–0.05,Wet or dry mass at paddle position 3,kg
+raw_data,01_01_1_4_test_watercontent_raw.csv,paddle4,numeric,0–0.05,Wet or dry mass at paddle position 4,kg
+raw_data,01_01_1_4_test_watercontent_raw.csv,observation,text,,Free-text observational notes,
+derived_data,01_01_1_4_test_watercontent_derived.csv,w,numeric,0–1,Gravimetric water content (m_wet–m_dry)/m_wet,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,w_theory,numeric,0.65–0.70,Theoretical water content based on substrate composition,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,mean_w,numeric,0–1,Mean water content across paddles,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,std_w,numeric,0–0.3,Standard deviation of water content across paddles,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,sem_w,numeric,0–0.1,Standard error of mean water content,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,dev_paddle1,numeric,-0.3–0.3,Deviation of paddle1 from mean water content,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,dev_paddle2,numeric,-0.3–0.3,Deviation of paddle2 from mean water content,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,dev_paddle3,numeric,-0.3–0.3,Deviation of paddle3 from mean water content,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,dev_paddle4,numeric,-0.3–0.3,Deviation of paddle4 from mean water content,dimensionless
+derived_data,01_01_1_4_test_watercontent_derived.csv,combined_5min_mean_dev_pct,numeric,0–20,Mean absolute deviation across trials 2–4 at 5 min,%
+derived_data,01_01_1_4_test_watercontent_derived.csv,combined_5min_sem_pct,numeric,0–10,SEM of absolute deviation across trials 2–4 at 5 min,%
+raw_data,01_02_1_3_test_portions_raw.csv,trial,categorical,1–3,Replicate number of the experiment,
+raw_data,01_02_1_3_test_portions_raw.csv,prototype,categorical,V3;V4,Prototype version used,
+raw_data,01_02_1_3_test_portions_raw.csv,bag_id,numeric,1–40,Sequential bag identifier,
+raw_data,01_02_1_3_test_portions_raw.csv,m_bag,numeric,0.1–1.6,Mass of filled substrate bag,kg
+raw_data,01_02_1_3_test_portions_raw.csv,m_probe_wet,numeric,0.02–0.06,Wet mass of probe sample,kg
+raw_data,01_02_1_3_test_portions_raw.csv,m_probe_dry,numeric,0.005–0.015,Dry mass of probe sample,kg
+raw_data,01_02_1_3_test_portions_raw.csv,observation,text,,Free-text observational notes,
+derived_data,01_02_1_3_test_portions_derived.csv,mean_bag_mass,numeric,0.1–1.6,Mean mass of bags in trial,kg
+derived_data,01_02_1_3_test_portions_derived.csv,std_bag_mass,numeric,0–0.5,Standard deviation of bag masses,kg
+derived_data,01_02_1_3_test_portions_derived.csv,std_bag_mass_pct,numeric,0–40,Relative standard deviation of bag masses,%
+derived_data,01_02_1_3_test_portions_derived.csv,std_bag_mass_err_pct,numeric,0–10,Uncertainty of relative standard deviation (Gauss propagation),%
+derived_data,01_02_1_3_test_portions_derived.csv,sem_bag_mass,numeric,0–0.1,Standard error of the mean bag mass,kg
+derived_data,01_02_1_3_test_portions_derived.csv,mass_loss_pct,numeric,0–60,Mass loss relative to inserted substrate,%
+derived_data,01_02_1_3_test_portions_derived.csv,mean_watercontent,numeric,0–1,Mean water content of probe samples,dimensionless
+derived_data,01_02_1_3_test_portions_derived.csv,std_watercontent,numeric,0–0.3,Standard deviation of probe water content,dimensionless
+derived_data,01_02_1_3_test_portions_derived.csv,sem_watercontent,numeric,0–0.1,SEM of probe water content,dimensionless
+derived_data,01_02_1_3_test_portions_derived.csv,dev_from_mean,numeric,-1–1,Deviation of bag mass from trial mean,kg
+derived_data,01_02_1_3_test_portions_derived.csv,note,text,,Additional annotation for trial,
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,trial,categorical,1–3,Replicate number of the experiment,
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,test_id,categorical,1.1;1.2,Experimental condition identifier,
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,n_csr,numeric,0–10,Number of crankshaft rotations,
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,paddle1,numeric,0–30,Fill height at paddle position 1,cm
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,paddle2,numeric,0–30,Fill height at paddle position 2,cm
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,paddle3,numeric,0–30,Fill height at paddle position 3,cm
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,paddle4,numeric,0–30,Fill height at paddle position 4,cm
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,RPM_agitator,numeric,12–15,Agitator rotation speed,RPM
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,m_substrate,numeric,16,Mass of substrate used,kg
+raw_data,01_03_1_3_agitator_longitudinal_raw.csv,placement,categorical,center;edge,Initial substrate placement,
+derived_data,01_03_1_3_agitator_longitudinal_derived.csv,mean_fill_height,numeric,0–30,Mean fill height across trials,cm
+derived_data,01_03_1_3_agitator_longitudinal_derived.csv,std_fill_height,numeric,0–10,Standard deviation of fill height,cm
+derived_data,01_03_1_3_agitator_longitudinal_derived.csv,sem_fill_height,numeric,0–5,Standard error of fill height,cm
+derived_data,01_03_1_3_agitator_longitudinal_derived.csv,deviation_from_mean,numeric,-15–15,Deviation from mean fill height,cm
+derived_data,01_03_1_3_agitator_longitudinal_derived.csv,rel_dev_pct,numeric,-100–100,Relative deviation from mean fill height,%
+raw_data,01_04_1_3_manifold_raw.csv,test_id,categorical,5–7,Experimental manifold configuration,
+raw_data,01_04_1_3_manifold_raw.csv,trial,categorical,1–3,Replicate number,
+raw_data,01_04_1_3_manifold_raw.csv,orifice,numeric,1–11,Orifice index along manifold,
+raw_data,01_04_1_3_manifold_raw.csv,volume_ml,numeric,100–220,Collected water volume,mL
+raw_data,01_04_1_3_manifold_raw.csv,time_s,numeric,20–30,Measurement duration,s
+raw_data,01_04_1_3_manifold_raw.csv,hydraulic_head_m,numeric,0.4,Hydraulic head,m
+raw_data,01_04_1_3_manifold_raw.csv,bore_mm,numeric,2–3,Orifice bore diameter,mm
+derived_data,01_04_1_3_manifold_derived.csv,flow_l_min,numeric,0.2–0.7,Volumetric flow rate,L/min
+derived_data,01_04_1_3_manifold_derived.csv,mean_flow,numeric,0.2–0.7,Mean flow across trials,L/min
+derived_data,01_04_1_3_manifold_derived.csv,std_flow,numeric,0–0.15,Standard deviation of flow,L/min
+derived_data,01_04_1_3_manifold_derived.csv,vel_meas_m_s,numeric,0.9–1.6,Measured jet velocity,m/s
+derived_data,01_04_1_3_manifold_derived.csv,vel_meas_err_m_s,numeric,0–0.3,Uncertainty of measured velocity,m/s
+derived_data,01_04_1_3_manifold_derived.csv,vel_loss_pct_vs_1,numeric,-20–35,Velocity loss relative to orifice 1,%
+derived_data,01_04_1_3_manifold_derived.csv,vel_loss_err_pct_vs_1,numeric,0–10,Uncertainty of velocity loss,%
+derived_data,01_04_1_3_manifold_derived.csv,rsd_pct,numeric,5–35,Relative standard deviation of flow distribution,%
+derived_data,01_04_1_3_manifold_derived.csv,rsd_err_pct,numeric,0–6,Uncertainty of RSD (Gauss propagation),%
+derived_data,01_04_1_3_manifold_derived.csv,total_flow_l_min,numeric,2–8,Total flow across all orifices,L/min
+derived_data,01_04_1_3_manifold_derived.csv,v_max_m_s,numeric,1.0–1.6,Maximum measured jet velocity,m/s
+derived_data,01_04_1_3_manifold_derived.csv,v_min_m_s,numeric,0.8–1.4,Minimum measured jet velocity,m/s
+derived_data,01_04_1_3_manifold_derived.csv,dv_pct,numeric,0–35,Velocity spread relative to v_max,%
+derived_data,01_04_1_3_manifold_derived.csv,req_rsd_ok,categorical,True;False,Requirement check: RSD ≤ 10%,
+derived_data,01_04_1_3_manifold_derived.csv,req_dv_ok,categorical,True;False,Requirement check: Δv ≤ 10%,
+derived_data,01_04_1_3_manifold_derived.csv,theory_flow,numeric,0.45–1.2,Theoretical flow per orifice,L/min
+derived_data,01_04_1_3_manifold_derived.csv,theory_vel_m_s,numeric,2.5–2.8,Theoretical jet velocity,m/s
+derived_data,01_04_1_3_manifold_derived.csv,theory_bore_mm,numeric,1.7–1.8,Theoretical bore diameter for ideal distribution,mm
