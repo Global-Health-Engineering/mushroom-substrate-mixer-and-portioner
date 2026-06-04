@@ -9,11 +9,11 @@ This open-source machine helps mushroom farmers mix, water, and bag substrate us
 
 Designed for small-scale mushroom farmers around the world.
 
-📐 [Free technical drawings](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/Technical_Drawings_TD)
+📐 [FFREE TECHNICAL DRAWINGS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/Technical_Drawings_TD)
 
-📐 [Free instructions](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/instructions.pdf)
+📐 [FREE INSTRUCTIONS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/instructions.pdf)
 
-📐 User Manual (Video): [INSERT DOWNLOAD LINK HERE]
+📐 User Manual (Video): [INSERT DOWNLOAD LINK TO YOUTUBE HERE]
 
 
 🎓 Developed as a Bachelor's Thesis at the Global Health Engineering group, ETH Zurich, Switzerland.
