@@ -1,12 +1,33 @@
+# Project overview
+
+
+🍄 *Low-Cost Mushroom Substrate Mixer & Portioning Device* 🍄
+
+This open-source machine helps mushroom farmers mix, water, and bag substrate using simple materials and hand power only.
+
+✅ No electricity required ✅ No diesel required ✅ Low-cost and easy to build ✅ Open-source construction plans
+
+Designed for small-scale mushroom farmers around the world.
+
+📐 Free building plans: [INSERT DOWNLOAD LINK HERE]
+📐 User Manual (Video): [INSERT DOWNLOAD LINK HERE]
+
+
+🎓 Developed as a Bachelor's Thesis at the Global Health Engineering group, ETH Zurich, Switzerland.
+
+We hope this project helps farmers turn agricultural waste into food, income, and opportunity.
+
+🌍 Build it. Improve it. Share it.
+
+Feedback, improvements, and rebuilds are welcome. If you build your own version, please let us know! 🍄🔧
+
 ---
-title: "README for `root`"
-output: pdf_document
----
+# Repository Overview
 
-# Overview
+This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "**Product Development of a Substrate Mixer and Portioning Device**" conducted 2026 at the Global Health Engineering research group at ETH Zurich.
 
-This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "**Product Development of a Substrate Mixer and Portioning Device**" conducted 2026 at the Global Health Engineering research group at ETH Zurich. The folder contains a structure for generated data with guidance on how to store raw and derived data.
-
+The folders contain all publicly accessible data, plans, and information necessary to reproduce the prototype developed during the project.
+Should your interest extend beyond the project’s results and deliverables, the written thesis, the project proposal, and the presentation slides are also available to provide insight into the product development and the course of the project.
 
 # Directories & Files
 
@@ -49,8 +70,5 @@ The repository has the following directory tree:
 | README.pdf   | File with general information about this project.                                                                                                                                                                           |
 | analysis     | Directory containing code for data analysis.                                                                                                                                                                 |
 | data         | Data directory with sub-directories (raw_data, derived_data, metadata). This directory and its all sub-directories contain README.md files with instructions and information about their content.                                  |
-| docs         | Directory for documents that are generated as part of the project. Two sub-folders (report and slides) provide the manuscript and the presentations prepared over the course of the project. |
-| grading      | Directory containing template for grading the project and the student. Supervisors need to ensure that students are aware of this grading rubric prior to starting their work with the GHE group.                                  |
+| docs         | Directory for documents that are generated as part of the project. Two sub-folders (report and slides) provide the manuscript and the presentations prepared over the course of the project. |                        |
 | hardware     | Directory containing hardware design, calculations and documentation as well as testing documentation as a product of the project.                                                                                                 |
-| media        | Directory for storing media related to the project (divided into photo and video sub-directories).                                                                                                                                 |
-| src          | Directory for software development (not analysis files)                                                                                                                                                                     |
