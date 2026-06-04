@@ -140,6 +140,7 @@ The following substrate parameters were used in Test 01.01.
 Values for Trial 4 are placeholders and will be updated once measurements are available.
 
 | Trial | m_sawdust_kg | m_straw_kg | m_water_kg | m_total_kg | w_theory |
+|--------|--------|--------------------|---------------------|-------|-------|
 | 1     | 19.01 | 7.11 | 52.24  | 78.36  | 0.667 |
 | 2     | 8.01  | 2.11 | 20.24  | 30.36  | 0.667 |
 | 3     | 8.00  | 4.50 | 17.472 | 29.952 | 0.682 |
