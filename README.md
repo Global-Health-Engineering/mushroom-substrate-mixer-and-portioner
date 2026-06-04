@@ -9,7 +9,7 @@ This open-source machine helps mushroom farmers mix, water, and bag substrate us
 
 Designed for small-scale mushroom farmers around the world.
 
-📐 Free building plans: [INSERT DOWNLOAD LINK HERE]
+📐 Free building plans: [DOWNLOAD from GitHub](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/Technical_Drawings_TD)
 
 📐 User Manual (Video): [INSERT DOWNLOAD LINK HERE]
 
