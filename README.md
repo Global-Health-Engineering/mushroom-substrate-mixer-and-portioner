@@ -1,7 +1,7 @@
 # Project overview
 
 
-## 🍄 **Low-Cost Mushroom Substrate Mixer & Portioning Device** 🍄
+## 🍄 Low-Cost Mushroom Substrate Mixer & Portioning Device 🍄
 
 This open-source machine helps mushroom farmers mix, water, and bag substrate using simple materials and hand power only.
 
