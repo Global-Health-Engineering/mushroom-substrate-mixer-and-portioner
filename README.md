@@ -27,7 +27,7 @@ Feedback, improvements, and rebuilds are welcome. If you build your own version,
 This is the directory for the bachelor's thesis of Peter Siegenthaler (psiegenthale@ethz.ch), named "**Product Development of a Substrate Mixer and Portioning Device**" conducted 2026 at the Global Health Engineering research group at ETH Zurich.
 
 The folders contain all publicly accessible data, plans, and information necessary to reproduce the prototype developed during the project.
-Should your interest extend beyond the project’s results and deliverables, the written thesis, the project proposal, and the presentation slides are also available to provide insight into the product development and the course of the project.
+Should your interest extend beyond the project’s results and deliverables, experimental data and their analysis, the written thesis (manuscript), the project proposal, and the presentation slides are also available to provide insight into the product development and the course of the project.
 
 # Directories & Files
 
