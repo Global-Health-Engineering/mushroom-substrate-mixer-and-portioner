@@ -9,19 +9,15 @@ This open-source machine helps mushroom farmers mix, water, and bag substrate us
 
 Designed for small-scale mushroom farmers around the world.
 
-📐 [FREE TECHNICAL DRAWINGS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/Technical_Drawings_TD)
-
-📐 [FREE INSTRUCTIONS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/instructions.pdf)
-
+📐 [FREE TECHNICAL DRAWINGS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/Technical_Drawings_TD)  
+📐 [FREE INSTRUCTIONS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/instructions.pdf)  
 📐 User Manual (Video): [TODO: INSERT LINK TO YOUTUBE HERE]
 
 
 🎓 Developed as a Bachelor's Thesis at the Global Health Engineering group, ETH Zurich, Switzerland.
 
-We hope this project helps farmers turn agricultural waste into food, income, and opportunity.
-
-🌍 Build it. Improve it. Share it.
-
+We hope this project helps farmers turn agricultural waste into food, income, and opportunity.  
+🌍 Build it. Improve it. Share it.  
 Feedback, improvements, and rebuilds are welcome. If you build your own version, please let us know! 🍄🔧
 
 ---
@@ -70,7 +66,7 @@ The repository has the following directory tree:
 
 | name         | description                                                                                                                                                                                                                        |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| README.pdf   | File with general information about this project.                                                                                                                                                                           |
+| README.md   | File with general information about this project.                                                                                                                                                                           |
 | analysis     | Directory containing code for data analysis.                                                                                                                                                                 |
 | data         | Data directory with sub-directories (raw_data, derived_data, metadata). This directory and its all sub-directories contain README.md files with instructions and information about their content.                                  |
 | docs         | Directory for documents that are generated as part of the project. Two sub-folders (report and slides) provide the manuscript and the presentations prepared over the course of the project. |                        |
