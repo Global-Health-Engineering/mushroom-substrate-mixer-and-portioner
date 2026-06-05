@@ -2,7 +2,7 @@
 
 This open-source machine helps mushroom farmers mix, water, and bag substrate using simple materials and hand power only.
 
-✅ No electricity required ✅ No diesel required ✅ Low-cost and easy to build ✅ Open-source construction plans
+✅ No electricity required  ✅ No diesel required  ✅ Low-cost and easy to build  ✅ Open-source construction plans  
 
 Designed for small-scale mushroom farmers around the world.
 
