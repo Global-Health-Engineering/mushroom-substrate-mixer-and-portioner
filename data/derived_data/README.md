@@ -13,10 +13,10 @@ This directory contains all machine‑generated datasets produced by the reprodu
 
 In addition to the machine‑generated first‑series datasets, this directory also contains the archived PDF reports of all zero‑series experiments (Test IDs 00.YY):
 
-00_01_1_1_stability_supportingstructure_testreport.pdf
-00_02_1_3_stability_friction_plainbearing_testreport.pdf
-00_03_1_2_agitator_model_testreport.pdf
-00_04_1_4_orifices_testreport.pdf
+00_01_1_1_stability_supportingstructure_testreport.pdf  
+00_02_1_3_stability_friction_plainbearing_testreport.pdf  
+00_03_1_2_agitator_model_testreport.pdf  
+00_04_1_4_orifices_testreport.pdf  
 
 These documents summarize early‑stage prototype evaluations and contain qualitative observations, manual measurements, and exploratory findings.
 Because zero‑series tests were not designed for computational analysis and do not follow the structured CSV schema, they are not included in the Python‑based processing pipeline.
@@ -34,13 +34,13 @@ They are stored here to ensure:
 
 All files in this folder are created exclusively by the script `01_build_derived_data.py` and contain tables of all first-series experiments (Test IDs 01.YY):
 
-01_01_1_4_test_watercontent_derived.csv
-01_02_1_3_test_portions_derived.csv
-01_03_1_3_agitator_longitudinal_derived.csv
-01_04_1_3_manifold_derived.csv
+01_01_1_4_test_watercontent_derived.csv  
+01_02_1_3_test_portions_derived.csv  
+01_03_1_3_agitator_longitudinal_derived.csv  
+01_04_1_3_manifold_derived.csv  
 
-- cleaned and standardized measurement tables  
-- all derived variables (mean, standard deviation, SEM, RSD, propagated errors)  
+- cleaned and standardized measurement tables    
+- all derived variables (mean, standard deviation, SEM, RSD, propagated errors)    
 - theoretical reference values  
 - quality‑check indicators  
 - trial‑level annotations  
