@@ -152,7 +152,7 @@ Source: `01_02_2_4_portions_raw.csv`
 This experiment evaluates the homogeneity of substrate portioning using the filling line. Individual bag masses (`m_bag`) were measured for each portion. Additionally, for every fifth bag (1, 5, 10, 15, …), wet and dry probe masses (`m_probe_wet`, `m_probe_dry`) were recorded to determine water content within the portions.
 
 Two prototypes were tested:
-- **V3, Conveyor Line PE-Tube ** in Trial 1  
+- **V3, Conveyor Line PE-Tube** in Trial 1  
 - **V4, Conveyor Line Diffusor** in Trial 2 and 3  
 
 Raw data include only directly measured values. All derived variables (e.g., water content, mass deviation, standard deviations, homogeneity metrics) are computed programmatically in the data‑processing pipeline.
