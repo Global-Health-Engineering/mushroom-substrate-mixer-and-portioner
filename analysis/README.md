@@ -3,7 +3,7 @@ title: "README for `./analysis`"
 output: pdf_document
 ---
 
-This folder contains derived data. For details see the `README.pdf` file in the `../data` folder.
+This folder contains the data processing pipeline. For details see the `README.pdf` file in the `../data/metadata`.
 
 # Scripts Overview — Data Processing Pipeline
 
