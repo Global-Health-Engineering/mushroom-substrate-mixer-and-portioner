@@ -13,6 +13,8 @@ Designed for small-scale mushroom farmers around the world.
 📐 [FREE INSTRUCTIONS](https://github.com/Global-Health-Engineering/mushroom-substrate-mixer-and-portioner/tree/2026-bsc-thesis-psiegenthale/hardware/design/instructions.pdf)  
 📐 User Manual (Video): [TODO: INSERT LINK TO YOUTUBE HERE]
 
+[![DOI](https://zenodo.org/badge/1259342723.svg)](https://doi.org/10.5281/zenodo.21256422)
+
 
 🎓 Developed as a Bachelor's Thesis at the Global Health Engineering group, ETH Zurich, Switzerland.
 
